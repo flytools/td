@@ -24,7 +24,6 @@ export class MyElement extends LitElement {
   count = 0
 
   render() {
-    return 'teste'
     return html`
       <div>
         <a href="https://vite.dev" target="_blank">
